@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyApp
+comment0.text=\r\n\ \uD074\uB798\uC2A4\uB97C\ \uC774\uC6A9\uD574\ \uACC4\uC0B0\uD558\uB294\ \uD504\uB85C\uADF8\uB7A8\r\n\ \r\n\ @author\ (\uC774\uC9C4\uADDC_2022320005)\ \r\n\ @version\ (2023/05/03)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=operand1\ operator\ operand2
+comment2.target=double\ run(int,\ java.lang.String,\ int)
+numComments=3

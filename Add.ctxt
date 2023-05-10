@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Add
+comment0.text=\r\n\ \uD53C\uC5F0\uC0B0\uC790\uB97C\ \uBC1B\uC544\ \uB354\uD558\uAE30\ \uC5F0\uC0B0\uC744\ \uD558\uB294\ \uD074\uB798\uC2A4.\r\n\ \r\n\ @author\ (2022320005_\uC774\uC9C4\uADDC\ )\ \r\n\ @version\ (2023/05/03)\r\n
+comment1.params=a\ b
+comment1.target=Add(int,\ int)
+comment2.params=
+comment2.target=int\ calculate()
+comment3.params=a\ b
+comment3.target=void\ setValue(int,\ int)
+numComments=4
